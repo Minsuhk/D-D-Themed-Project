@@ -1,0 +1,3 @@
+﻿  Assignment3 - Dungeons and Dragons.cpp
+C:\Users\nayar\source\repos\Assignment3 - D and D\Assignment3 - Dungeons and Dragons.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment3 - D and D.vcxproj -> C:\Users\nayar\source\repos\Assignment3 - D and D\Debug\Assignment3 - D and D.exe
